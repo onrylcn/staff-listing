@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Staff List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This staff list application was prepared by Onur Yalçın.
 
 ## Available Scripts
 
